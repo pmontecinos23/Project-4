@@ -1,4 +1,4 @@
-# preparing-chicago-crime-data
+# Project 4: Preparing Chicago crime data
  
 - This repo contains a notebook for processing Chiacgo Crime data into a repo-friendly format. 
 - To use this notebook: 
